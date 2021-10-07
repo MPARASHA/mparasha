@@ -2,9 +2,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<div>
 ![Manu Parashar's github stats](https://github-readme-stats.vercel.app/api?username=mparasha&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mparasha&theme=tokyonight" alt="mystreak"/>
+
 ![Manu Parashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mparasha&theme=tokyonight)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mparasha&theme=tokyonight" alt="mystreak"/>
+</div>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
