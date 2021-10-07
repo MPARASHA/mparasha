@@ -6,7 +6,7 @@
 
 ![Manu Parashar's github stats](https://github-readme-stats.vercel.app/api?username=mparasha&show_icons=true&theme=tokyonight)
 
-![Manu Parashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mparasha&theme=tokyonight&hide=C#,Objective-C)
+![Manu Parashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mparasha&theme=tokyonight&hide=C%23,Objective-C)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mparasha&theme=tokyonight" alt="mystreak"/>
 </div>
