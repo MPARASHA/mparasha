@@ -6,7 +6,7 @@
 
 ![Manu Parashar's github stats](https://github-readme-stats.vercel.app/api?username=mparasha&show_icons=true&theme=tokyonight)
 
-![Manu Parashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mparasha&theme=tokyonight&hide=C%23,Objective-C,CMake,Swift,Objective-C%2B%2B,HLSL)
+![Manu Parashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mparasha&theme=tokyonight&hide=C%23,Objective-C,CMake,Swift,Objective-C%2B%2B,HLSL,Jupyter%20Notebook)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mparasha&theme=tokyonight" alt="mystreak"/>
 </div>
