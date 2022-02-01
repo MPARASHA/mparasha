@@ -14,7 +14,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### LinkedIn
+### Links
 [<img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/39068407/98451620-bd08fa00-2104-11eb-9470-ddd5add19e9f.png" />](https://www.linkedin.com/in/manu-parashar-11a2a015/)
 [<img align="left" alt="Website" width="32px" src="https://mparasha.github.io/images/website-icon.png" />](https://mparasha.github.io)
 
