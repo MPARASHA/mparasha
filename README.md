@@ -16,7 +16,7 @@
 
 ### LinkedIn
 [<img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/39068407/98451620-bd08fa00-2104-11eb-9470-ddd5add19e9f.png" />](https://www.linkedin.com/in/manu-parashar-11a2a015/)
-[<img align="left" alt="Website" width="32px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />](https://mparasha.github.io)
+[<img align="left" alt="Website" width="32px" src="https://mparasha.github.io/images/website-icon.png" />](https://mparasha.github.io)
 
 
 
